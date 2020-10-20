@@ -1,0 +1,65 @@
+.chart{
+    position: fixed; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+label{
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+select{
+    min-width: 150px;
+    width: auto;
+} 
+
+.button{
+    background-color: #00ACFC;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+  }
+  
+.button:hover{
+    background-color: #CE00FC;
+  }
+
+h1{
+    color: #945106;
+    font-weight: bold;
+    position: fixed;
+    top: 5%;
+    left: 52%;
+    transform: translate(-50%, -50%)
+}
+
+h6{
+    font-size: 20px;
+    padding-bottom: 20px;
+    position: fixed; 
+    top: 10%;
+    left: 52%;
+    transform: translate(-50%, -50%)
+}
+
+.centerButton{
+    position: fixed; 
+    top: 19.7%;
+    left: 60%;
+    transform: translate(-50%, -50%)
+}
+
+.centerSelection{
+    position: fixed; 
+    top: 20%;
+    left: 47%;
+    transform: translate(-50%, -50%)
+}
+
+.label{
+    font-size: 20px;
+}
